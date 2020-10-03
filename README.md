@@ -2,7 +2,7 @@
 
 [![Twitter](https://img.shields.io/badge/-@ofilipemoreno-black?style=flat-square&labelColor=black&logo=twitter&logoColor=white&link=https://twitter.com/ofilipemoreno)](https://twitter.com/ofilipemoreno)
 [![Instagram](https://img.shields.io/badge/-@filipemoreno_-black?style=flat-square&labelColor=black&logo=instagram&logoColor=white&link=https://twitter.com/filipemoreno_)](https://instagram.com/filipemoreno_)
-[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&labelColor=black&logo=gmail&logoColor=white&link=http://mailto:y8.filipe@gmail.com)](http://mailto:y8.filipe@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&labelColor=black&logo=gmail&logoColor=white&link=mailto:y8.filipe@gmail.com)](mailto:y8.filipe@gmail.com)
 
 
 ## ⚡ Technologies
