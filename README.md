@@ -4,7 +4,6 @@
 [![Instagram](https://img.shields.io/badge/-@ofilipemoreno-black?style=flat-square&labelColor=black&logo=instagram&logoColor=white&link=https://twitter.com/ofilipemoreno)](https://instagram.com/ofilipemoreno)
 [![Email](https://img.shields.io/badge/-Email-black?style=flat-square&labelColor=black&logo=gmail&logoColor=white&link=mailto:y8.filipe@gmail.com)](mailto:y8.filipe@gmail.com)
 
-
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -33,11 +32,15 @@
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 
+<h2 dir="auto"></h2>
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FilipeMoreno&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeMoreno&include_all_commits=true&count_private=true&layout=compact&theme=dark" />
 </div>
+
 <h2 dir="auto"></h2>
+
 <div align="center">
   <img src="https://wakatime.com/share/@filipemoreno/72fd86fd-5519-43a1-99c7-778cd9fd6238.svg" width="400"/>
   <img src="https://wakatime.com/share/@filipemoreno/fbf7adc6-5fda-44b8-943f-09d4ae43374d.svg" width="400"/>
