@@ -34,8 +34,11 @@
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FilipeMoreno&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeMoreno&include_all_commits=true&count_private=true&layout=compact&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FilipeMoreno&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeMoreno&include_all_commits=true&count_private=true&layout=compact&theme=dark" />
+</div>
+<h2 dir="auto"></h2>
+<div align="center">
   <img src="https://wakatime.com/share/@filipemoreno/72fd86fd-5519-43a1-99c7-778cd9fd6238.svg" width="400"/>
   <img src="https://wakatime.com/share/@filipemoreno/fbf7adc6-5fda-44b8-943f-09d4ae43374d.svg" width="400"/>
 </div>
